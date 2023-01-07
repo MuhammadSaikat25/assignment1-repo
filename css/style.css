@@ -3,7 +3,7 @@
 }
 /* Header Start */
  header{
-    background-image: url(/images/banner/banner2.png);
+    background-image: url(../images/banner/banner2.png);
     height: 730px;
     /* display: flex; */
  }
