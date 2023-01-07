@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+}
+/* Header Start */
+ header{
+    background-image: url(/images/banner/banner2.png);
+    height: 730px;
+    /* display: flex; */
+ }
+header .text{
+    text-align: right;
+    padding-top: 235px;
+    padding-right: 80px;
+    margin-left: 820px;
+    width: 500px;
+    margin-bottom: 20px;
+
+ }
+ header h1{
+    margin-bottom: 20px;
+    font-size: 45px;
+    font-weight: 700;
+ }
+ header p{
+    color: rgb(58, 97, 98);
+ }
+
+.btn{
+    background: tomato;
+    border: 0;
+    padding: 15px;
+    border-radius: 5px;
+    
+}
+
+ /* Header End */
+
+ /* main start     main-d-1 */
+
+ .div-1 img{
+    height: 650px;
+    margin-left: 60px;
+    margin-bottom: 70px;
+ }
+ .div-1{
+    align-items: center;
+    display: flex;
+    margin-left: 60px;
+    justify-content: space-around;
+ }
+ .div-1 .text{
+    margin-left: 50px;
+    width: 550px;
+ }
+
+ .div-1 p{
+    color: gray;
+ }
+
+/* main-d-2 */
+ .div-2{
+    justify-content: space-evenly;
+    display: flex;
+    margin-bottom: 10px;
+ }
+ /* main-d-3 */
+ .div-3{
+    text-align: center;
+    height: 600px;
+    background-image: url(/images/gradient2.png),url(/images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+ }
+ .div-3-text{
+   padding-top: 220px;
+   margin-right: 800px;
+   color: aliceblue;
+   /* text-align: left; */
+ }
+ .div-3 .btn-2{
+   color: red;
+   padding: 12px;
+   border: 0;
+   border-radius: 3px;
+   margin-top: 30px;
+   margin-right: 900px;
+ }
+
+.footer-main{
+   padding: 100px;
+   color: beige;
+   display: flex;
+   justify-content: space-around;
+   background:black;
+   
+}
+.footer-btn .inp{
+   background: black;
+   padding: 7px;
+   border: 1px solid aquamarine;
+   border-radius: 3px;
+
+
+}
+.footer-btn .sub-btn{
+   color: red;
+   padding: 10px;
+}
