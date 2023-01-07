@@ -95,6 +95,7 @@ header .text{
    
 }
 .footer-btn .inp{
+   color: aliceblue;
    background: black;
    padding: 7px;
    border: 1px solid aquamarine;
@@ -104,13 +105,14 @@ header .text{
 }
 .footer-btn .sub-btn{
    color: wheat;
-   padding: 15px;
+   padding: 10px 25PX;
    background: blue;
-   border-radius: 4px;
+   border-radius: 6px;
 }
 .div-sub{
    font-size: 20px;
    margin-bottom: 10px;
+   font-weight: 700;
 }
 .div-icon{
    display: flex;
